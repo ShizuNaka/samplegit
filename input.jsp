@@ -11,8 +11,8 @@
 <p>名前：<html:text property="empName" /></p>
 <p>パスワード：<html:password property="empPass" /></p>
 <p>性別：
-<html:radio property="gender" value="1"/>男性
-<html:radio property="gender" value="2"/>女性
+<html:radio property="gender" value="1"/>★男性
+<html:radio property="gender" value="2"/>☆女性
 </p>
 <p>住所：<html:text property="address" /></p>
 <p>生年月日：<html:text property="birthday" /></p>
