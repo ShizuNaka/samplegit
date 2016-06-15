@@ -21,7 +21,7 @@
 <html:options collection="postList" property="postId" labelProperty="postName"/>
 </html:select>
 </p>
-<s:submit property="insert" value="登録" />
+<s:submit property="insert" value="***登録***" />
 </s:form>
 </body>
 </html>
